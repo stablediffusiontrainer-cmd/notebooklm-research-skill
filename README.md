@@ -25,7 +25,7 @@ Before using this prompt you will need:
 2. **A NotebookLM account** — Available free at [notebooklm.google.com](https://notebooklm.google.com).
 
 3. **The NotebookLM MCP server** installed and connected to Claude. This is what allows Claude to create notebooks and add sources on your behalf.
-   - Follow the setup instructions at the [NotebookLM MCP server repository](https://github.com/sooperset/mcp-client-notebooklm) *(or substitute the correct URL for the MCP server you are using)*
+   - Follow the setup instructions at the [NotebookLM MCP server repository](https://github.com/jacob-bd/notebooklm-mcp-cli)
    - Confirm the MCP server appears as a connected tool in your Claude settings before proceeding
 
 ---
