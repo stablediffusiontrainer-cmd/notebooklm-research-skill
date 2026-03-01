@@ -1,0 +1,28 @@
+Research Plan: Carbon Capture & Storage
+Phase 1 — Foundations & Technology (~17 sources) — STATUS: COMPLETE (18 sources in notebook)
+[x] CCS fundamentals & overview (post-combustion, pre-combustion, oxyfuel) | Tier 1 | DONE
+[x] Geological storage mechanisms & site selection | Tier 1 | DONE
+[x] Direct Air Capture (DAC) technology & science | Tier 1 | DONE
+[x] IPCC & IEA flagship reports on CCS role in climate | Tier 1/2 | DONE
+[x] Wikipedia & explainer overviews (CCS, DAC, geological storage) | Tier 3 | DONE
+[x] TED/YouTube explainers on CCS | Tier 3 | DONE
+Phase 2 — Engineering, Industry & Projects (~17 sources) — STATUS: COMPLETE (17 sources)
+[x] Enhanced Oil Recovery (EOR) and CCS co-deployment | Tier 1 | DONE
+[x] Large-scale CCS projects (Sleipner, Quest, Boundary Dam) | Tier 2 | DONE
+[x] Carbon mineralization & ocean-based CDR | Tier 1 | DONE
+[x] Industry reports / GCCSI | Tier 2 | DONE
+[x] CO₂ transport infrastructure & pipeline safety | Tier 1/2 | DONE
+[x] BECCS | Tier 1 | DONE
+[x] US CCS policy/programs overview | Tier 1 | DONE
+Phase 3 — Policy, Economics & Future Outlook (~15 sources) — STATUS: COMPLETE (12 sources added, total capacity ~47-50)
+[x] 45Q tax credit / IRA CCS provisions | Tier 1/Gov | DONE (CRS IF11455)
+[x] DOE CCS hubs & regional programs | Tier 2/Gov | DONE (CRS IF11861 + R48258)
+[x] Environmental justice & community impacts of CCS | Tier 1 | DONE (PMC review + CIEL)
+[x] Criticisms, risks & limitations of CCS | Tier 1/2 | DONE (IEEFA)
+[x] Future outlook: next-gen capture materials & solid sorbents | Tier 1 | DONE (PMC MOF review)
+[x] CCS cost curves & economics review | Tier 1 | DONE (PMC CDR Economics Review 2025)
+[x] International policy & Net Zero commitments (EU, global) | Tier 2 | DONE (EU SETIS 2025 + GCCSI 2024 + IEEFA WEO 2025)
+Remaining (3 slots)
+Fill with highest-priority remaining gaps: IRA CCS industrial decarbonization, point-source industrial CCS, or any remaining Tier 1 gaps
+Run post-addition audit after final sources added
+Write _REPORT

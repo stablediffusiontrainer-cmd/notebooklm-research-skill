@@ -1,0 +1,17 @@
+Progress Log
+Summary
+Total sources added: 50 (COMPLETE — at capacity)
+Remaining capacity: 0
+Paywalled sources collected: 1
+Last updated: 2026-02-23T00:00:00Z
+Last conversation phase: FINAL (Conv 3) — all phases complete
+Sources Added (Conv 3 — final 12)
+#TitleURLTypeTierAdded In39CRISPR-Cas-mediated transcriptional modulation: CRISPRa and CRISPRihttps://pmc.ncbi.nlm.nih.gov/articles/PMC10362391/Academic1Conv 340Multiplexed and portable nucleic acid detection (SHERLOCKv2)https://pmc.ncbi.nlm.nih.gov/articles/PMC5961727/Academic1Conv 341CRISPR-Based Diagnostics: Challenges and POC Applicationshttps://pmc.ncbi.nlm.nih.gov/articles/PMC9872163/Academic1Conv 342Concerning RNA-guided gene drives for wild populations (Esvelt et al.)https://pmc.ncbi.nlm.nih.gov/articles/PMC4117217/Academic1Conv 343Manipulating the Destiny of Wild Populations Using CRISPRhttps://pmc.ncbi.nlm.nih.gov/articles/PMC11064769/Academic1Conv 344Global Regulatory Landscape for Genome-Edited Cropshttps://pmc.ncbi.nlm.nih.gov/articles/PMC8583973/Academic1Conv 345Regulatory framework human germline editing: China/US/UK comparisonhttps://pmc.ncbi.nlm.nih.gov/articles/PMC12069028/Academic1Conv 346WHO Human Genome Editing: A Framework for Governancehttps://www.who.int/publications/i/item/9789240030060Government/Institutional1Conv 347Patent protection for CRISPR: an ELSI reviewhttps://pmc.ncbi.nlm.nih.gov/articles/PMC5965580/Academic2Conv 348Prospect patents and CRISPR; rivalry and ethical licensinghttps://pmc.ncbi.nlm.nih.gov/articles/PMC8545401/Academic2Conv 349CRISPR, Patents, and the Public Healthhttps://pmc.ncbi.nlm.nih.gov/articles/PMC5733839/Academic2Conv 350Advancing CRISPR genome editing into gene therapy clinical trials 2024https://pmc.ncbi.nlm.nih.gov/articles/PMC12094669/Academic1Conv 3
+
+Paywalled Sources (for manual review)
+#TitleAuthor(s)YearJournalDOI/URLCitationsConfidenceRationale1Exagamglogene Autotemcel for Severe Sickle Cell DiseaseFrangoul et al.2024NEJMhttps://www.nejm.org/doi/full/10.1056/NEJMoa2309676HighHighPhase 3 primary clinical trial data for first FDA-approved CRISPR therapy
+
+Post-Addition Audit (Conv 3)
+Audit Pass 1: All 50 sources reviewed — CLEAN. No error indicators found.
+Search Queries Used (Conv 3)
+#QueryTarget TierSources Added1CRISPR epigenome editing CRISPRa CRISPRi gene activation repressionTier 112CRISPR DETECTR diagnostic SHERLOCK MAMMOTH SHERLOCKv2Tier 123CRISPR gene drive conservation invasive species ecologicalTier 124CRISPR global regulatory landscape FDA EMA approval governance 2023 2024Tier 135WHO human genome editing governance framework registryTier 116CRISPR intellectual property patent landscape Broad Institute UC BerkeleyTier 23
